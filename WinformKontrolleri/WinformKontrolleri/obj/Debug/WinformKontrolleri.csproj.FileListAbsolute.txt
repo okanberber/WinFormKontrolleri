@@ -1,0 +1,12 @@
+C:\Users\okanb\source\repos\WinformKontrolleri\WinformKontrolleri\obj\Debug\WinformKontrolleri.csproj.AssemblyReference.cache
+C:\Users\okanb\source\repos\WinformKontrolleri\WinformKontrolleri\obj\Debug\WinformKontrolleri.ButtonKontrolu.resources
+C:\Users\okanb\source\repos\WinformKontrolleri\WinformKontrolleri\obj\Debug\WinformKontrolleri.LabelKontrolu.resources
+C:\Users\okanb\source\repos\WinformKontrolleri\WinformKontrolleri\obj\Debug\WinformKontrolleri.MetinAraclari.resources
+C:\Users\okanb\source\repos\WinformKontrolleri\WinformKontrolleri\obj\Debug\WinformKontrolleri.csproj.GenerateResource.cache
+C:\Users\okanb\source\repos\WinformKontrolleri\WinformKontrolleri\bin\Debug\WinformKontrolleri.exe.config
+C:\Users\okanb\source\repos\WinformKontrolleri\WinformKontrolleri\bin\Debug\WinformKontrolleri.exe
+C:\Users\okanb\source\repos\WinformKontrolleri\WinformKontrolleri\bin\Debug\WinformKontrolleri.pdb
+C:\Users\okanb\source\repos\WinformKontrolleri\WinformKontrolleri\obj\Debug\WinformKontrolleri.Properties.Resources.resources
+C:\Users\okanb\source\repos\WinformKontrolleri\WinformKontrolleri\obj\Debug\WinformKontrolleri.csproj.CoreCompileInputs.cache
+C:\Users\okanb\source\repos\WinformKontrolleri\WinformKontrolleri\obj\Debug\WinformKontrolleri.exe
+C:\Users\okanb\source\repos\WinformKontrolleri\WinformKontrolleri\obj\Debug\WinformKontrolleri.pdb
