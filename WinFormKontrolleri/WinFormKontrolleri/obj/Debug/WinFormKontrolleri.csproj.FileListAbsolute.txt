@@ -1,0 +1,12 @@
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\bin\Debug\WinFormKontrolleri.exe.config
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\bin\Debug\WinFormKontrolleri.exe
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\bin\Debug\WinFormKontrolleri.pdb
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.csproj.AssemblyReference.cache
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.LabelKontrolu.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.Properties.Resources.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.csproj.GenerateResource.cache
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.csproj.CoreCompileInputs.cache
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.exe
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.pdb
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.ButtonKontrolu.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.MetinAraclari.resources
