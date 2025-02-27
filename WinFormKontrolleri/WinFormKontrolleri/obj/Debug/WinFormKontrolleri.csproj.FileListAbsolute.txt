@@ -10,3 +10,4 @@ D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinF
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.pdb
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.ButtonKontrolu.resources
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.MetinAraclari.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.ComboBoxKontrolu.resources
