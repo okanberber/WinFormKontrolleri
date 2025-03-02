@@ -52,6 +52,18 @@
     <Compile Include="ButtonKontrolu.Designer.cs">
       <DependentUpon>ButtonKontrolu.cs</DependentUpon>
     </Compile>
+    <Compile Include="CheckBoxRadioButtonKontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckBoxRadioButtonKontrolu.Designer.cs">
+      <DependentUpon>CheckBoxRadioButtonKontrolu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CheckedListBoxKontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CheckedListBoxKontrolu.Designer.cs">
+      <DependentUpon>CheckedListBoxKontrolu.cs</DependentUpon>
+    </Compile>
     <Compile Include="ComboBoxKontrolu.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -70,6 +82,12 @@
     <Compile Include="LabelKontrolu.Designer.cs">
       <DependentUpon>LabelKontrolu.cs</DependentUpon>
     </Compile>
+    <Compile Include="ListBoxKontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListBoxKontrolu.Designer.cs">
+      <DependentUpon>ListBoxKontrolu.cs</DependentUpon>
+    </Compile>
     <Compile Include="MetinAraclari.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -82,11 +100,20 @@
     <EmbeddedResource Include="ButtonKontrolu.resx">
       <DependentUpon>ButtonKontrolu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="CheckBoxRadioButtonKontrolu.resx">
+      <DependentUpon>CheckBoxRadioButtonKontrolu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CheckedListBoxKontrolu.resx">
+      <DependentUpon>CheckedListBoxKontrolu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="ComboBoxKontrolu.resx">
       <DependentUpon>ComboBoxKontrolu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LabelKontrolu.resx">
       <DependentUpon>LabelKontrolu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListBoxKontrolu.resx">
+      <DependentUpon>ListBoxKontrolu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MetinAraclari.resx">
       <DependentUpon>MetinAraclari.cs</DependentUpon>
