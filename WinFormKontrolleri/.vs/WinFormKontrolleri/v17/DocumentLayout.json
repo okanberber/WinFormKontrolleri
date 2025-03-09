@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\checkedlistboxkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\checkedlistboxkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\progressbarkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\progressbarkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\checkedlistboxkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\checkedlistboxkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\progressbarkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\progressbarkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\winformkontrolleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,26 +31,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CheckedListBoxKontrolu.cs",
-              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\CheckedListBoxKontrolu.cs",
-              "RelativeDocumentMoniker": "WinFormKontrolleri\\CheckedListBoxKontrolu.cs",
-              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\CheckedListBoxKontrolu.cs",
-              "RelativeToolTip": "WinFormKontrolleri\\CheckedListBoxKontrolu.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAkAAAA",
+              "Title": "ProgressBarKontrolu.cs",
+              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\ProgressBarKontrolu.cs",
+              "RelativeDocumentMoniker": "WinFormKontrolleri\\ProgressBarKontrolu.cs",
+              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\ProgressBarKontrolu.cs",
+              "RelativeToolTip": "WinFormKontrolleri\\ProgressBarKontrolu.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAjwCIAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T11:44:30.332Z",
+              "WhenOpened": "2025-03-09T11:33:59.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CheckedListBoxKontrolu.cs [Design]",
-              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\CheckedListBoxKontrolu.cs",
-              "RelativeDocumentMoniker": "WinFormKontrolleri\\CheckedListBoxKontrolu.cs",
-              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\CheckedListBoxKontrolu.cs [Design]",
-              "RelativeToolTip": "WinFormKontrolleri\\CheckedListBoxKontrolu.cs [Design]",
+              "Title": "ProgressBarKontrolu.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\ProgressBarKontrolu.cs",
+              "RelativeDocumentMoniker": "WinFormKontrolleri\\ProgressBarKontrolu.cs",
+              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\ProgressBarKontrolu.cs [Design]",
+              "RelativeToolTip": "WinFormKontrolleri\\ProgressBarKontrolu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T11:19:11.515Z",
+              "WhenOpened": "2025-03-09T11:25:24.756Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -61,7 +61,7 @@
               "RelativeDocumentMoniker": "WinFormKontrolleri\\Program.cs",
               "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\Program.cs",
               "RelativeToolTip": "WinFormKontrolleri\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T17:56:50.576Z",
               "EditorCaption": ""
