@@ -94,11 +94,29 @@
     <Compile Include="ListBoxKontrolu.Designer.cs">
       <DependentUpon>ListBoxKontrolu.cs</DependentUpon>
     </Compile>
+    <Compile Include="MDIIcinAnaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIIcinAnaForm.Designer.cs">
+      <DependentUpon>MDIIcinAnaForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxKontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxKontrolu.Designer.cs">
+      <DependentUpon>MessageBoxKontrolu.cs</DependentUpon>
+    </Compile>
     <Compile Include="MetinAraclari.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="MetinAraclari.Designer.cs">
       <DependentUpon>MetinAraclari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MetinEditorum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MetinEditorum.Designer.cs">
+      <DependentUpon>MetinEditorum.cs</DependentUpon>
     </Compile>
     <Compile Include="Model\Marka.cs" />
     <Compile Include="PictureBoxKontrolu.cs">
@@ -136,8 +154,17 @@
     <EmbeddedResource Include="ListBoxKontrolu.resx">
       <DependentUpon>ListBoxKontrolu.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="MDIIcinAnaForm.resx">
+      <DependentUpon>MDIIcinAnaForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxKontrolu.resx">
+      <DependentUpon>MessageBoxKontrolu.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="MetinAraclari.resx">
       <DependentUpon>MetinAraclari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MetinEditorum.resx">
+      <DependentUpon>MetinEditorum.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="PictureBoxKontrolu.resx">
       <DependentUpon>PictureBoxKontrolu.cs</DependentUpon>

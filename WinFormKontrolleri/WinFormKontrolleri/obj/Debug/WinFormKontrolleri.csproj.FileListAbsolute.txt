@@ -17,3 +17,6 @@ D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinF
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.DateTimeKontrolleri.resources
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.PictureBoxKontrolu.resources
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.ProgressBarKontrolu.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.MetinEditorum.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.MessageBoxKontrolu.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.MDIIcinAnaForm.resources
