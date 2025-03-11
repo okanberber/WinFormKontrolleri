@@ -70,6 +70,12 @@
     <Compile Include="ComboBoxKontrolu.Designer.cs">
       <DependentUpon>ComboBoxKontrolu.cs</DependentUpon>
     </Compile>
+    <Compile Include="DataGridKontrolu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataGridKontrolu.Designer.cs">
+      <DependentUpon>DataGridKontrolu.cs</DependentUpon>
+    </Compile>
     <Compile Include="DateTimeKontrolleri.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -118,6 +124,7 @@
     <Compile Include="MetinEditorum.Designer.cs">
       <DependentUpon>MetinEditorum.cs</DependentUpon>
     </Compile>
+    <Compile Include="Model\Category.cs" />
     <Compile Include="Model\Marka.cs" />
     <Compile Include="PictureBoxKontrolu.cs">
       <SubType>Form</SubType>
@@ -144,6 +151,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ComboBoxKontrolu.resx">
       <DependentUpon>ComboBoxKontrolu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DataGridKontrolu.resx">
+      <DependentUpon>DataGridKontrolu.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="DateTimeKontrolleri.resx">
       <DependentUpon>DateTimeKontrolleri.cs</DependentUpon>

@@ -16,7 +16,7 @@ namespace WinFormKontrolleri
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new MDIIcinAnaForm());
+            Application.Run(new DataGridKontrolu());
         }
     }
 }
