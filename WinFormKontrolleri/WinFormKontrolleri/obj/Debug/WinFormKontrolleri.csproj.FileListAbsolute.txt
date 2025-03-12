@@ -21,3 +21,5 @@ D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinF
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.MessageBoxKontrolu.resources
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.MDIIcinAnaForm.resources
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.DataGridKontrolu.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.AnaForm.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.GirisForm.resources
