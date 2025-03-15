@@ -18,7 +18,10 @@ namespace WinFormKontrolleri
         bool islogin = false;
         public GirisForm()
         {
+           
             InitializeComponent();
+            tb_kullaniciAdi.Text = "aaa1";
+            tb_sifre.Text = "1234";
         }
 
         private void btn_login_Click(object sender, EventArgs e)

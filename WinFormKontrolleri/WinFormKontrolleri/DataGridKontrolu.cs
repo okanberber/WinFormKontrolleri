@@ -46,7 +46,7 @@ namespace WinFormKontrolleri
             {
                 int id = reader.GetInt32(0);
                 string name = reader.GetString(1);
-                string description = reader.GetString(2);
+                string description =reader.IsDBNull(2) ? "" : reader.GetString(2);
                 dt.Rows.Add(id, name, description);
             }
             //dt.Load(reader);

@@ -23,3 +23,5 @@ D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinF
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.DataGridKontrolu.resources
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.AnaForm.resources
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.GirisForm.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.UrunlerForm.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.KategoriHizliEkleForm.resources

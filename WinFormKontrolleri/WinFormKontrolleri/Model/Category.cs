@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WinFormKontrolleri.Model
 {
-    internal class Category
+    public class Category
     {
         public int ID { get; set; }
         public string Name { get; set; }

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\datagridkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\datagridkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\datagridkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\datagridkontrolu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,20 +19,20 @@
       "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\urunlerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\urunlerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\model\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\model\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\urunlerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\urunlerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\kategorihizliekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\kategorihizliekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\girisform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|d:\\repos\\winformkontrolleri\\winformkontrolleri\\winformkontrolleri\\kategorihizliekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|solutionrelative:winformkontrolleri\\kategorihizliekleform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E438B328-7445-42AD-9EB5-92DAA75A5D09}|WinFormKontrolleri\\WinFormKontrolleri.csproj|D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\winformkontrolleri\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +46,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,83 +54,107 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LoginUser.cs",
-              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\Model\\LoginUser.cs",
-              "RelativeDocumentMoniker": "WinFormKontrolleri\\Model\\LoginUser.cs",
-              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\Model\\LoginUser.cs",
-              "RelativeToolTip": "WinFormKontrolleri\\Model\\LoginUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:29:40.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "User.cs",
-              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\Model\\User.cs",
-              "RelativeDocumentMoniker": "WinFormKontrolleri\\Model\\User.cs",
-              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\Model\\User.cs",
-              "RelativeToolTip": "WinFormKontrolleri\\Model\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T18:01:57.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "DataGridKontrolu.cs",
+              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\DataGridKontrolu.cs",
+              "RelativeDocumentMoniker": "WinFormKontrolleri\\DataGridKontrolu.cs",
+              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\DataGridKontrolu.cs",
+              "RelativeToolTip": "WinFormKontrolleri\\DataGridKontrolu.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAA4wDAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:47:02.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataGridKontrolu.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\DataGridKontrolu.cs",
+              "RelativeDocumentMoniker": "WinFormKontrolleri\\DataGridKontrolu.cs",
+              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\DataGridKontrolu.cs [Design]",
+              "RelativeToolTip": "WinFormKontrolleri\\DataGridKontrolu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:46:56.336Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AnaForm.cs",
               "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\AnaForm.cs",
               "RelativeDocumentMoniker": "WinFormKontrolleri\\AnaForm.cs",
               "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\AnaForm.cs",
               "RelativeToolTip": "WinFormKontrolleri\\AnaForm.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAD4vwwAAAABAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwC0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:34:34.369Z",
+              "WhenOpened": "2025-03-15T13:45:35.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GirisForm.cs",
-              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\GirisForm.cs",
-              "RelativeDocumentMoniker": "WinFormKontrolleri\\GirisForm.cs",
-              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\GirisForm.cs",
-              "RelativeToolTip": "WinFormKontrolleri\\GirisForm.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAjwDAAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:29:10.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GirisForm.cs [Design]",
-              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\GirisForm.cs",
-              "RelativeDocumentMoniker": "WinFormKontrolleri\\GirisForm.cs",
-              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\GirisForm.cs [Design]",
-              "RelativeToolTip": "WinFormKontrolleri\\GirisForm.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:22:15.106Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AnaForm.cs [Design]",
               "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\AnaForm.cs",
               "RelativeDocumentMoniker": "WinFormKontrolleri\\AnaForm.cs",
               "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\AnaForm.cs [Design]",
               "RelativeToolTip": "WinFormKontrolleri\\AnaForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T17:20:49.204Z",
+              "WhenOpened": "2025-03-15T13:45:32.082Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "KategoriHizliEkleForm.cs",
+              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\KategoriHizliEkleForm.cs",
+              "RelativeDocumentMoniker": "WinFormKontrolleri\\KategoriHizliEkleForm.cs",
+              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\KategoriHizliEkleForm.cs",
+              "RelativeToolTip": "WinFormKontrolleri\\KategoriHizliEkleForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:32:18.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KategoriHizliEkleForm.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\KategoriHizliEkleForm.cs",
+              "RelativeDocumentMoniker": "WinFormKontrolleri\\KategoriHizliEkleForm.cs",
+              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\KategoriHizliEkleForm.cs [Design]",
+              "RelativeToolTip": "WinFormKontrolleri\\KategoriHizliEkleForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:27:49.449Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UrunlerForm.cs [Design]",
+              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\UrunlerForm.cs",
+              "RelativeDocumentMoniker": "WinFormKontrolleri\\UrunlerForm.cs",
+              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\UrunlerForm.cs [Design]",
+              "RelativeToolTip": "WinFormKontrolleri\\UrunlerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:27:13.398Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UrunlerForm.cs",
+              "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\UrunlerForm.cs",
+              "RelativeDocumentMoniker": "WinFormKontrolleri\\UrunlerForm.cs",
+              "ToolTip": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\UrunlerForm.cs",
+              "RelativeToolTip": "WinFormKontrolleri\\UrunlerForm.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAWwFAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T11:42:45.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\repos\\WinFormKontrolleri\\WinFormKontrolleri\\WinFormKontrolleri\\Program.cs",
               "RelativeDocumentMoniker": "WinFormKontrolleri\\Program.cs",
@@ -130,8 +162,7 @@
               "RelativeToolTip": "WinFormKontrolleri\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-26T17:56:50.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-26T17:56:50.576Z"
             }
           ]
         }

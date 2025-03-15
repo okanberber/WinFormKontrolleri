@@ -33,5 +33,25 @@ namespace WinFormKontrolleri
             frm.WindowState = FormWindowState.Maximized;
             frm.Show();
         }
+
+        private void TSMI_Urunler_Click(object sender, EventArgs e)
+        {
+            Form[] acikformlar = this.MdiChildren;
+            bool acikmi = false;
+            foreach (Form item in acikformlar)
+            {
+                if (item.GetType() == typeof(UrunlerForm))
+                {
+                    item.Activate();
+                    acikmi = true;
+                }
+            }
+            if (!acikmi)
+            {
+                UrunlerForm frm = new UrunlerForm();
+                frm.MdiParent = this;
+                frm.Show();
+            }
+        }
     }
 }
