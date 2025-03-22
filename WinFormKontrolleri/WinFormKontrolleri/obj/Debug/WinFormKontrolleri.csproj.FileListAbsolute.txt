@@ -25,3 +25,5 @@ D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinF
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.GirisForm.resources
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.UrunlerForm.resources
 D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.KategoriHizliEkleForm.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.FlowLayoutPanelVeUserKontrol.resources
+D:\repos\WinFormKontrolleri\WinFormKontrolleri\WinFormKontrolleri\obj\Debug\WinFormKontrolleri.ResimVeIsimKontrol.resources
